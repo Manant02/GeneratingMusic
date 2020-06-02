@@ -1,0 +1,24 @@
+20200103135728
+Network_Keras_partseparated.ipynb
+train with .fit_generator
+    
+run_id= 	RUN01
+data_dir= 	./data_game1_cc_npy_16_noduration/
+test_fraction= 	0.9
+n_epochs= 	2
+batch_size= 	1
+n_music= 	3
+gen_freq= 	1
+gen_threshold= 	0
+shuffle= 	True
+n_samples_in = 	400
+stdout_to_file = 	False
+run_info= 	This run demonstrates the execution of the python script
+
+n_measures= 	16
+n_inputs= 	9216
+n_hidden1= 	2000
+n_hidden2= 	200
+n_hidden3= 	1600
+n_hidden4= 	120
+lr= 		0.01
